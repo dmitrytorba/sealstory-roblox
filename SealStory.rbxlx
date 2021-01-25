@@ -1,0 +1,18 @@
+<roblox version="4">
+  <Item class="ServerScriptService" referent="0">
+    <Properties>
+      <string name="Name">ServerScriptService</string>
+    </Properties>
+    <Item class="Folder" referent="1">
+      <Properties>
+        <string name="Name">GameFiles</string>
+      </Properties>
+      <Item class="Script" referent="2">
+        <Properties>
+          <string name="Name">Levels</string>
+          <string name="Source">print("Generating seals...\nChecking if Mylo did his homework...")</string>
+        </Properties>
+      </Item>
+    </Item>
+  </Item>
+</roblox>

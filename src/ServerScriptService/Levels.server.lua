@@ -1,0 +1,1 @@
+print("Generating seals...\nChecking if Mylo did his homework...")
